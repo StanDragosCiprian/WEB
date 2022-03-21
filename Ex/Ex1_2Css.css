@@ -1,0 +1,33 @@
+.hunu{
+
+    color:green;
+    font-size: 35px;
+    font-family: Helvetica;
+}
+li{
+   font-size: 18px;
+}
+body{
+    background-color:LightBlue;
+}
+
+h1{
+    background-color:LawnGreen;
+}
+
+h2{
+    color: LightYellow;
+}
+
+ul{
+    background-color:Sienna;
+}
+
+ol{
+    background-color: Orchid;
+}
+
+li{
+    font-size: 20px;
+    background-color: blue;
+}

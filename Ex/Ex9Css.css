@@ -1,0 +1,12 @@
+
+ table{
+    font-size:18px;
+    background-color:AliceBlue;
+}
+#favorite{
+    background-color:green;
+}
+.game{
+    background-color:orange;   
+    color:white;
+}
